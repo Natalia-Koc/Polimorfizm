@@ -1,0 +1,13 @@
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\bin\Debug\netcoreapp3.1\Lab02_Polimorfizm.exe
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\bin\Debug\netcoreapp3.1\Lab02_Polimorfizm.deps.json
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\bin\Debug\netcoreapp3.1\Lab02_Polimorfizm.runtimeconfig.json
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\bin\Debug\netcoreapp3.1\Lab02_Polimorfizm.runtimeconfig.dev.json
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\bin\Debug\netcoreapp3.1\Lab02_Polimorfizm.dll
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\bin\Debug\netcoreapp3.1\Lab02_Polimorfizm.pdb
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\obj\Debug\netcoreapp3.1\Lab02_Polimorfizm.csprojAssemblyReference.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\obj\Debug\netcoreapp3.1\Lab02_Polimorfizm.AssemblyInfoInputs.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\obj\Debug\netcoreapp3.1\Lab02_Polimorfizm.AssemblyInfo.cs
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\obj\Debug\netcoreapp3.1\Lab02_Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\obj\Debug\netcoreapp3.1\Lab02_Polimorfizm.dll
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\obj\Debug\netcoreapp3.1\Lab02_Polimorfizm.pdb
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab02_Polimorfizm\obj\Debug\netcoreapp3.1\Lab02_Polimorfizm.genruntimeconfig.cache
